@@ -1,0 +1,76 @@
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+build/
+bld/
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio files
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# MSTest test Results
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+
+# NuGet Packages
+*.nupkg
+**/packages/*
+!**/packages/build/
+
+# Web Deploy publish profiles
+*.pubxml
+*.pubxml.user
+
+# Application Settings with Secrets
+appsettings.Local.json
+appsettings.Development.json
+appsettings.Production.json
+
+# Environment files
+.env
+.env.local
+.env.production
+
+# Azure specific
+.azure/
+
+# Secrets and certificates
+*.pfx
+*.p12
+*.key
+secrets.json
+
+# Redis connection strings
+redis.conf
+
+# Logs
+logs/
+*.log
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Temporary files
+*.tmp
+*.temp
